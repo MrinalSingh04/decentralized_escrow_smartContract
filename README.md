@@ -132,12 +132,11 @@ npx hardhat run scripts/deploy.js --network goerli
 - **Buyer confirms delivery**, releasing funds to the seller.
 - **If there is a dispute, the arbitrator resolves it.**
 
-## Future Improvements
-
-🚀 Implement **multi-signature escrow** for added security.  
-🚀 Use **Chainlink Oracles** for verifying external conditions.  
-🚀 Automate dispute resolution using **decentralized arbitration protocols.**
 
 ## License
 
 This project is licensed under the **MIT License**.
+
+## Author
+
+👤 Mrinal Singh (@https://www.linkedin.com/in/mrinal-singh-43a9661a0/)
